@@ -38,6 +38,7 @@ Specify license (MIT, ISC, etc.)
 
 <img width="1915" height="877" alt="image" src="https://github.com/user-attachments/assets/cb4a480c-1c74-4f24-83cc-fb83895f1947" />
 
-<img width="1900" height="798" alt="image" src="https://github.com/user-attachments/assets/289e4126-d5ea-440d-9251-a49ca8ba6c78" />
+<img width="1909" height="879" alt="image" src="https://github.com/user-attachments/assets/782c31ba-9d3e-468e-9759-9201a04c7d75" />
+
 
 
